@@ -3,11 +3,14 @@ Simple Script to detect Bar Code in a image, using python 3.5, numpy and OpenCv3
 
 This only marks the last detected code!!!
 
-To-do: 
+**To-do**: 
 
-  To mark all the Bar Codes
+  
+To mark all the Bar Codes
 
-  Resize image
+
+Resize image
+
 
 ## Install dependencies ##
 
